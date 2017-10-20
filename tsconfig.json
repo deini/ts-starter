@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["es6", "dom"],
+    "module": "esnext",
+    "target": "es2015",
+    "declaration": true,
+    "importHelpers": true
+  },
+  "include": ["src/**/*.ts", "tests/**/*.ts"]
+}
